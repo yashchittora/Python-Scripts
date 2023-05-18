@@ -1,3 +1,9 @@
+import setupp
+
+modules_used = ["pynput"]
+setupp.inp(modules_used)
+
+
 from pynput import keyboard
 from pynput.keyboard import Key
 from datetime import datetime
